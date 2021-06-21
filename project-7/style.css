@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: rgb(29, 29, 70);
+}
+
+#home h3{
+    color:white;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+#home p{
+    color: white;
